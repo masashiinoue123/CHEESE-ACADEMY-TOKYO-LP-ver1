@@ -13,7 +13,7 @@ CHEESE ACADEMY TOKYO ランディングページ制作
 ---
 
 ## ③アプリのデプロイURL
-
+https://masashiinoue123.github.io/CHEESE-ACADEMY-TOKYO-LP-ver1/
 
 ---
 
